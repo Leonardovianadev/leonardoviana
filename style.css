@@ -1,0 +1,37 @@
+html{background: url(background.png) no-repeat;
+    background-color: black;
+background-size:cover;}
+
+
+.menu a {text-decoration: none;
+    font-size:20px;
+    color:#F0F8FF;
+    padding:5px;
+    margin-left: 30px;}
+
+.menu a:hover{color:#00abf0}    
+
+
+.ul#sm{color: #00abf0;}
+
+
+.menu{display:inline;}
+
+header{text-align: center;}
+
+
+p{color: white;
+font-size: 25px;}
+
+
+h1#saudacao{display:inline-flex;
+    color:#F0F8FF;
+    font-size: 30px;
+    margin-top: 200px;
+;}
+
+
+form#p{
+    margin-top:2px;
+    width:200px;
+    height:10px;}
